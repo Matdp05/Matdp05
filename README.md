@@ -1,9 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Matt&fontColor=FFFFFF&fontSize=68&fontAlignY=36&desc=%C3%89tudiant%20%26%20autodidacte%20en%20d%C3%A9veloppement&descSize=20&descAlignY=58&color=0:0A84FF,100:05070F" width="100%" alt="Matt — Étudiant & autodidacte en développement"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Matt&fontColor=FFFFFF&fontSize=70&fontAlignY=40&color=0:0A84FF,100:05070F" width="100%" alt="Matt"/>
+
+<a href="https://github.com/Matdp05">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=0A84FF&center=true&vCenter=true&width=620&height=48&lines=%C3%89tudiant+%26+autodidacte+en+d%C3%A9veloppement;Cr%C3%A9ateur+du+th%C3%A8me+IOS26+%E2%80%94+Liquid+Glass;Interfaces+propres%2C+inspir%C3%A9es+du+design+d%27Apple" alt="Étudiant & autodidacte en développement"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Matdp05&color=0A84FF&style=for-the-badge&label=VUES+DU+PROFIL" alt="Vues du profil"/>
+
+<br/>
+<br/>
 
 Je conçois des interfaces **propres et soignées**, inspirées du design d'Apple.<br/>
-Créateur de **IOS26 — Liquid Glass**, un thème Spicetify pour Spotify.
+Créateur de **IOS26 — Liquid Glass**, un thème Spicetify pour Spotify, disponible sur le Marketplace.
 
 <br/>
 
@@ -30,6 +39,16 @@ Créateur de **IOS26 — Liquid Glass**, un thème Spicetify pour Spotify.
 <br/>
 <br/>
 
+<img src="https://streak-stats.demolab.com?user=Matdp05&locale=fr&background=0D0D14&border=2A2A36&ring=0A84FF&fire=0A84FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0A84FF&sideLabels=C7C7D1&dates=8E8E93&border_radius=16" alt="Streak de contributions"/>
+
+<br/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Matdp05&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="Trophées GitHub"/>
+
+<br/>
+<br/>
+
 ## 🎧 Projet phare
 
 <a href="https://github.com/Matdp05/IOS26.EDAWARD">
@@ -44,6 +63,12 @@ Créateur de **IOS26 — Liquid Glass**, un thème Spicetify pour Spotify.
 </a>
 
 *Panneaux de verre flottants, îlot de lecture, fond dynamique — disponible sur le Spicetify Marketplace.*
+
+<br/>
+
+## 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/Matdp05/Matdp05/output/snake.svg" width="100%" alt="Serpent des contributions"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:05070F,100:0A84FF" width="100%" alt=""/>
 
